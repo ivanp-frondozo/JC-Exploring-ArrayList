@@ -2,7 +2,8 @@
 
 ### by: Ivan Patrick Frondozo
 
-## Description: This Java program explores the foundational methods and use-cases of ArrayLists through different exercises created within the program.
+## Description:
+ This Java program explores the foundational methods and use-cases of ArrayLists through different exercises created within the program.
 
 ## Output:
 
